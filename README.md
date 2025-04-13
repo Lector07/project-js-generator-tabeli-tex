@@ -18,4 +18,4 @@ Projekt to narzędzie do generowania tabel w formacie LaTeX na podstawie paramet
 ## Instalacja
 1. Sklonuj repozytorium:
    ```bash
-   git clone <URL_REPOZYTORIUM>
+   git clone https://github.com/Lector07/project-js-generator-tabeli-tex.git
