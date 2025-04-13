@@ -1,10 +1,8 @@
 {
-  "name": "${PROJECT_NAME}",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "jsdoc": "^4.0.4"
   },
-  "private": true
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  }
 }
